@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/inputbuf.h
+string
+-
+vector
+-
+
+/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/lexer.h
+vector
+-
+string
+-
+inputbuf.h
+/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/inputbuf.h
+
+/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/project2.cc
+iostream
+-
+cstdio
+-
+cstdlib
+-
+algorithm
+-
+vector
+-
+map
+-
+string
+/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/string
+lexer.h
+/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/lexer.h
+

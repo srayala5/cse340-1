@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CSEProject2Spring23"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSEProject2Spring23">
+				<Option output="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/CSEProject2Spring23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/."/>
+					<Add directory="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSEProject2Spring23"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSEProject2Spring23/fast">
+				<Option output="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/CSEProject2Spring23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/."/>
+					<Add directory="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSEProject2Spring23/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/ReadMe.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/inputbuf.cc">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/inputbuf.h">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/lexer.cc">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/lexer.h">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/project2.cc">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/test_p3.sh">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test01.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test01.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test01.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test01.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test01.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test01.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test02.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test02.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test02.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test02.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test02.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test02.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test03.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test03.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test03.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test03.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test03.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test03.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test04.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test04.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test04.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test04.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test04.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test04.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test05.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test05.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test05.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test05.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test05.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test05.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test06.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test06.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test06.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test06.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test06.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test06.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test07.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test07.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test07.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test07.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test07.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test07.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test08.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test08.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test08.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test08.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test08.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test08.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test09.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test09.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test09.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test09.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test09.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test09.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test10.txt">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test10.txt.expected1">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test10.txt.expected2">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test10.txt.expected3">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test10.txt.expected4">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/tests/test10.txt.expected5">
+			<Option target="CSEProject2Spring23"/>
+		</Unit>
+		<Unit filename="/Users/jack/Documents/College/y3s2/cse340/CSEProject2Spring23/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

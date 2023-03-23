@@ -1,0 +1,76 @@
+cmake_minimum_required(VERSION 3.20)
+project(CSEProject2Spring23)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+include_directories(tests)
+
+add_executable(CSEProject2Spring23
+        tests/test01.txt
+        tests/test01.txt.expected1
+        tests/test01.txt.expected2
+        tests/test01.txt.expected3
+        tests/test01.txt.expected4
+        tests/test01.txt.expected5
+        tests/test02.txt
+        tests/test02.txt.expected1
+        tests/test02.txt.expected2
+        tests/test02.txt.expected3
+        tests/test02.txt.expected4
+        tests/test02.txt.expected5
+        tests/test03.txt
+        tests/test03.txt.expected1
+        tests/test03.txt.expected2
+        tests/test03.txt.expected3
+        tests/test03.txt.expected4
+        tests/test03.txt.expected5
+        tests/test04.txt
+        tests/test04.txt.expected1
+        tests/test04.txt.expected2
+        tests/test04.txt.expected3
+        tests/test04.txt.expected4
+        tests/test04.txt.expected5
+        tests/test05.txt
+        tests/test05.txt.expected1
+        tests/test05.txt.expected2
+        tests/test05.txt.expected3
+        tests/test05.txt.expected4
+        tests/test05.txt.expected5
+        tests/test06.txt
+        tests/test06.txt.expected1
+        tests/test06.txt.expected2
+        tests/test06.txt.expected3
+        tests/test06.txt.expected4
+        tests/test06.txt.expected5
+        tests/test07.txt
+        tests/test07.txt.expected1
+        tests/test07.txt.expected2
+        tests/test07.txt.expected3
+        tests/test07.txt.expected4
+        tests/test07.txt.expected5
+        tests/test08.txt
+        tests/test08.txt.expected1
+        tests/test08.txt.expected2
+        tests/test08.txt.expected3
+        tests/test08.txt.expected4
+        tests/test08.txt.expected5
+        tests/test09.txt
+        tests/test09.txt.expected1
+        tests/test09.txt.expected2
+        tests/test09.txt.expected3
+        tests/test09.txt.expected4
+        tests/test09.txt.expected5
+        tests/test10.txt
+        tests/test10.txt.expected1
+        tests/test10.txt.expected2
+        tests/test10.txt.expected3
+        tests/test10.txt.expected4
+        tests/test10.txt.expected5
+        inputbuf.cc
+        inputbuf.h
+        lexer.cc
+        lexer.h
+        project2.cc
+        ReadMe.txt
+        test_p3.sh)
